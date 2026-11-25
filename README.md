@@ -65,7 +65,6 @@ pip install -r requirements.txt
 jupyter notebook bayes_localisation.ipynb
 ```
 
-Random seeds are fixed, so the reported results are reproducible. The notebook saves its figures to `figures/`.
 
 ## Reference
 
